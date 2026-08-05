@@ -1,25 +1,46 @@
-# Olá, eu sou o Felipe! 👋
+# Olá, eu sou Felipe Luz! 👋
 
-Desenvolvedor Front-end em formação | ADS - Uninassau Teresina
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - UNINASSAU  
+💻 Desenvolvedor Full Stack em Formação  
+🚀 Construindo aplicações web com foco em JavaScript, React e Node.js
 
-## 🚀 Tecnologias que uso
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou estudante de ADS e estou desenvolvendo minhas habilidades em programação através de projetos práticos.
+
+Atualmente estudo desenvolvimento web, criando aplicações utilizando tecnologias do ecossistema JavaScript e buscando uma oportunidade de estágio para evoluir profissionalmente e contribuir com projetos reais.
+
+---
+
+## 🚀 Tecnologias
 
 [
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,linux)
 
 ](https://skillicons.dev)
 
-## 📊 Estatísticas
+---
 
+## 📌 Projetos em destaque
 
+### 🌦️ Weather App
+Aplicação Full Stack de previsão do tempo utilizando JavaScript, Node.js, Express e API externa.
 
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipesilv0607-lab&show_icons=true&theme=tokyonight)
+🔗 Repositório: colocar link
 
+https://felipesilv0607-lab.github.io/weather-app/
 
+### 💰 Sistema Financeiro
+Aplicação web para gerenciamento financeiro desenvolvida com React.
 
-## 📌 Sobre mim
+🔗 Repositório: colocar link
 
-- 🎓 Estudando ADS na Uninassau Teresina
-- 💻 Aprendendo desenvolvimento web moderno
-- 🎯 Rumo ao Full Stack
+---
+
+## 📫 Contato
+
+💼 LinkedIn: 
+🌐 Portfólio: em desenvolvimento
