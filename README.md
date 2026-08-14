@@ -43,4 +43,4 @@ Aplicação web para gerenciamento financeiro desenvolvida com React.
 ## 📫 Contato
 
 💼 LinkedIn: 
-🌐 Portfólio: em desenvolvimento
+🌐 Portfólio: https://felipesilv0607-lab.github.io/portfolio/
