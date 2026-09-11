@@ -1,4 +1,7 @@
-assets/banner.png
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner Felipe Luz" width="100%">
+</p>
+
 # 👋 Olá, eu sou Felipe Luz
 
 ### 💻 Desenvolvedor Full Stack em formação
