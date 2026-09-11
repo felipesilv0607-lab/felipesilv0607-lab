@@ -1,3 +1,4 @@
+assets/banner.png
 # 👋 Olá, eu sou Felipe Luz
 
 ### 💻 Desenvolvedor Full Stack em formação
