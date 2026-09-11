@@ -1,36 +1,14 @@
-<div align="center">
-
-<!-- BANNER -->
-
-<img src="./assets/banner.png" width="100%" alt="Felipe Luz - Full Stack Developer"/>
-
-<br>
-
-<!-- TYPING -->
-
-<a href="https://github.com/felipesilv0607-lab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Felipe+Luz;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;React+%7C+Node.js+%7C+PostgreSQL;Transformando+ideias+em+projetos+reais+%F0%9F%9A%80" />
-</a>
-
-<br>
-
-<a href="https://github.com/felipesilv0607-lab">
-  <img src="https://komarev.com/ghpvc/?username=felipesilv0607-lab&label=VISITAS&color=58A6FF&style=for-the-badge" />
-</a>
-
-</div>
-
----
-
 # 👋 Olá, eu sou Felipe Luz
 
 ### 💻 Desenvolvedor Full Stack em formação
 
+[![Visitas](https://komarev.com/ghpvc/?username=felipesilv0607-lab&label=VISITAS&color=58A6FF&style=for-the-badge)](https://github.com/felipesilv0607-lab)
+
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória na área de desenvolvimento de software.
 
-Meu foco atual está no desenvolvimento web, principalmente com **JavaScript, React, Node.js e PostgreSQL**, evoluindo gradualmente para aplicações Full Stack completas.
+Meu foco atual é o desenvolvimento Web e Full Stack, principalmente com **JavaScript, React, Node.js, Express, PostgreSQL e Prisma**, transformando o conhecimento adquirido nos estudos em projetos e aplicações reais.
 
-> 🚀 **Meu objetivo é transformar conhecimento em projetos reais e evoluir constantemente como desenvolvedor.**
+> 🚀 **Meu objetivo é evoluir através de projetos práticos e conquistar minha primeira oportunidade profissional na área de tecnologia.**
 
 ---
 
@@ -38,19 +16,21 @@ Meu foco atual está no desenvolvimento web, principalmente com **JavaScript, Re
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-💻 Focado em **desenvolvimento Web e Full Stack**
+💻 Focado em **Desenvolvimento Web e Full Stack**
 
-⚛️ Atualmente estudando e desenvolvendo com **React**
+⚛️ Desenvolvendo aplicações com **React e JavaScript**
 
-🟢 Aprimorando conhecimentos em **Node.js e APIs**
+🟢 Construindo APIs com **Node.js e Express**
 
-🗄️ Trabalhando com **SQL e PostgreSQL**
+🗄️ Trabalhando com **SQL, PostgreSQL e Prisma**
 
 🔧 Utilizando **Git e GitHub** no desenvolvimento dos meus projetos
 
-🤖 Utilizando **IA como ferramenta de apoio ao desenvolvimento**
+📚 Buscando constantemente evoluir em programação e boas práticas
 
-📚 Sempre buscando aprender novas tecnologias e boas práticas
+🤖 Utilizando **IA como ferramenta de apoio** para pesquisa, aprendizado, depuração e desenvolvimento
+
+🎯 Buscando minha **primeira oportunidade profissional em Tecnologia**
 
 ---
 
@@ -58,136 +38,107 @@ Meu foco atual está no desenvolvimento web, principalmente com **JavaScript, Re
 
 ## 🌐 Front-end
 
-<div align="center">
-
-<marquee behavior="scroll" direction="left" scrollamount="7">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-
-</marquee>
-
-</div>
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,vite)
 
 ---
 
-## ⚙️ Back-end & Banco de Dados
+## ⚙️ Back-end e Banco de Dados
 
-<div align="center">
-
-<marquee behavior="scroll" direction="right" scrollamount="7">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
-
-</marquee>
-
-</div>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)
 
 ---
 
 ## 🔧 Ferramentas
 
-<div align="center">
-
-<marquee behavior="scroll" direction="left" scrollamount="6">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</marquee>
-
-</div>
+![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,figma)
 
 ---
 
 ## 🤖 Inteligência Artificial
 
-<div align="center">
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
-<marquee behavior="scroll" direction="right" scrollamount="6">
-
-<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-
-</marquee>
-
-</div>
-
-> Utilizo ferramentas de IA para **pesquisa, debugging, documentação, brainstorming, aprendizado e auxílio durante o desenvolvimento**, sempre buscando entender e validar o código produzido.
+> Utilizo ferramentas de IA como apoio para **pesquisa, aprendizado, depuração, documentação e desenvolvimento**, sempre buscando compreender e validar as soluções utilizadas.
 
 ---
 
 # 🚀 Projetos em destaque
 
-<div align="center">
+## 🌤️ Weather App
 
-<a href="https://github.com/felipesilv0607-lab/weather-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipesilv0607-lab&repo=weather-app&theme=github_dark&hide_border=true" />
-</a>
+Aplicação de previsão do tempo desenvolvida para praticar **JavaScript, consumo de APIs e integração entre Front-end e Back-end**.
 
-</div>
-
-### 🌤️ Weather App
-
-Aplicação de previsão do tempo desenvolvida para praticar **JavaScript, consumo de APIs e desenvolvimento Full Stack**.
-
-**Stack**
+### 🛠️ Tecnologias
 
 `HTML` `CSS` `JavaScript` `Node.js` `Express` `OpenWeather API`
 
-🔗 **[Ver aplicação](https://felipesilv0607-lab.github.io/weather-app/)**
+🌐 **[Ver aplicação](https://felipesilv0607-lab.github.io/weather-app/)**
+
+💻 **[Ver código](https://github.com/felipesilv0607-lab/weather-app)**
 
 ---
 
-### 💰 Sistema Financeiro
+## 💰 Sistema Financeiro
 
-Aplicação Full Stack para gerenciamento de **receitas e despesas**, com foco em organização financeira e visualização dos dados.
+Aplicação **Full Stack** para gerenciamento de receitas e despesas, com foco em organização financeira e visualização de dados.
 
-**Stack**
+### 🛠️ Tecnologias
 
 `React` `Vite` `Node.js` `Express` `PostgreSQL` `Prisma`
 
+### 📌 Principais objetivos
+
+- Gerenciamento de receitas e despesas
+- Integração entre Front-end e Back-end
+- Persistência de dados com PostgreSQL
+- Utilização do Prisma como ORM
+- Desenvolvimento de APIs REST
+- Organização de uma arquitetura Full Stack
+
 **Status:** 🚧 Em desenvolvimento
+
+> Projeto utilizado para aprofundar conhecimentos em **React, APIs, banco de dados, Prisma e arquitetura Full Stack**.
+
+💻 **[Ver código](https://github.com/felipesilv0607-lab/finance-system)**
 
 ---
 
-### 💼 Portfólio
+## 💼 Portfólio
 
 Meu portfólio pessoal desenvolvido para apresentar minha trajetória, projetos, tecnologias e experiências como desenvolvedor.
 
-**Stack**
+### 🛠️ Tecnologias
 
 `React` `Vite` `JavaScript` `CSS`
 
 **Status:** 🚧 Em evolução
 
+🌐 **[Ver portfólio](https://felipesilv0607-lab.github.io/portfolio/)**
+
+💻 **[Ver código](https://github.com/felipesilv0607-lab/portfolio)**
+
 ---
 
 # 📂 Meus repositórios
 
-<div align="center">
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=felipesilv0607-lab&repo=weather-app&theme=github_dark&hide_border=true)](https://github.com/felipesilv0607-lab/weather-app)
 
-<a href="https://github.com/felipesilv0607-lab/weather-app">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=felipesilv0607-lab&repo=weather-app&theme=github_dark&hide_border=true" />
-</a>
+[![FreeCodeCamp JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=felipesilv0607-lab&repo=freecodecamp-javascript&theme=github_dark&hide_border=true)](https://github.com/felipesilv0607-lab/freecodecamp-javascript)
 
-<a href="https://github.com/felipesilv0607-lab">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=felipesilv0607-lab&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-</a>
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=felipesilv0607-lab&repo=portfolio&theme=github_dark&hide_border=true)](https://github.com/felipesilv0607-lab/portfolio)
 
-</div>
+[![Sistema Financeiro](https://github-readme-stats.vercel.app/api/pin/?username=felipesilv0607-lab&repo=finance-system&theme=github_dark&hide_border=true)](https://github.com/felipesilv0607-lab/finance-system)
 
 ---
 
 # 📊 Minha atividade no GitHub
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=felipesilv0607-lab&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felipesilv0607-lab&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
 ### 🌊 Histórico de contribuições
 
-O gráfico acima representa minha atividade e evolução no GitHub ao longo do tempo.
+Os gráficos acima representam minha atividade e evolução no GitHub ao longo do tempo.
 
 > Cada contribuição representa uma etapa da minha evolução como desenvolvedor.
 
@@ -195,29 +146,13 @@ O gráfico acima representa minha atividade e evolução no GitHub ao longo do t
 
 # 🐍 Minhas contribuições
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
-# 📈 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=felipesilv0607-lab&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesilv0607-lab&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
 
 ---
 
 # 🧭 Minha jornada
-
-<div align="center">
 
 ```text
 HTML + CSS
@@ -244,8 +179,6 @@ Prisma
 Full Stack 🚀
 ```
 
-</div>
-
 ---
 
 # 🎯 Atualmente
@@ -260,7 +193,10 @@ Full Stack 🚀
 🔐 Aprendendo
    └── APIs • Autenticação • Banco de dados
 
-🚀 Objetivo
+🚀 Projeto principal
+   └── Sistema Financeiro Full Stack
+
+🎯 Objetivo
    └── Atuar profissionalmente como Desenvolvedor Full Stack
 ```
 
@@ -270,30 +206,26 @@ Full Stack 🚀
 
 Busco uma oportunidade na área de tecnologia onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e participar do desenvolvimento de soluções reais.
 
+Tenho interesse principalmente em oportunidades de **estágio e início de carreira em desenvolvimento de software**, com foco em **Desenvolvimento Web e Full Stack**.
+
 Quero construir minha carreira através de **projetos, aprendizado contínuo e experiências práticas**, evoluindo gradualmente até me tornar um desenvolvedor Full Stack completo.
+
+> 💡 **Estou em busca de uma oportunidade onde eu possa aprender, contribuir e crescer junto com a equipe.**
 
 ---
 
 # 📫 Vamos conversar?
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/felipesilv0607-lab)
 
-<a href="https://github.com/felipesilv0607-lab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:felipesv0607@gmail.com)
 
-<a href="mailto:felipesv0607@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-</div>
+### 💻 Programe. Aprenda. Construa. Repita. 🚀
 
-<br>
+Obrigado por visitar meu perfil!
 
-<div align="center">
-
-### 💻 Code. Learn. Build. Repeat. 🚀
-
-<sub>Obrigado por visitar meu perfil!</sub>
-
-</div>
+<p align="center">
+  <strong>🚀 Em constante evolução como desenvolvedor.</strong>
+</p>
