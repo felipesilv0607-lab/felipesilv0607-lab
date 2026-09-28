@@ -53,7 +53,9 @@ Sistema financeiro Full Stack desenvolvido para gerenciamento de receitas, despe
 * Integração entre Front-end e Back-end
 * Autorização baseada no usuário autenticado
 
-🔗 **[Ver código](https://github.com/felipesilv0607-lab/finance-system)**
+🌐 **[Ver aplicação](https://felipesilv0607-lab.github.io/finance-system/)**
+
+💻 **[Ver código](https://github.com/felipesilv0607-lab/finance-system)**
 
 ---
 
