@@ -1,110 +1,57 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner Felipe Luz" width="100%">
-</p>
+## Projetos
 
-# 👋 Olá, eu sou Felipe Luz
+### Sistema Financeiro
 
-### 💻 Desenvolvedor Full Stack
+Sistema Full Stack para gerenciamento financeiro, com controle de contas, receitas, despesas, categorias e transações.
 
-Desenvolvedor focado na construção de aplicações Web e Full Stack, utilizando JavaScript, React, Node.js e PostgreSQL.
+**Tecnologias:** React, Vite, Node.js, Express, PostgreSQL e Prisma.
 
-Tenho desenvolvido projetos próprios para aplicar conhecimentos de desenvolvimento Front-end, Back-end, APIs REST, bancos de dados, autenticação e integração entre aplicações.
+- Autenticação e autorização de usuários
+- Gerenciamento de contas e categorias
+- Controle de receitas e despesas
+- APIs REST
+- Persistência de dados com PostgreSQL
+- Isolamento de dados por usuário
 
----
-
-## 🛠️ Tecnologias
-
-### Front-end
-
-`JavaScript` `React` `HTML` `CSS` `Vite`
-
-### Back-end
-
-`Node.js` `Express` `REST APIs`
-
-### Banco de Dados
-
-`PostgreSQL` `SQL` `Prisma`
-
-### Ferramentas
-
-`Git` `GitHub` `VS Code`
+[Ver aplicação](https://felipesilv0607-lab.github.io/finance-system/) | [Ver código](https://github.com/felipesilv0607-lab/finance-system)
 
 ---
 
-# 🚀 Projetos
+### Aplicativo de Previsão do Tempo
 
-## 💰 Finance System
+Aplicação para consulta de condições climáticas, utilizando a API OpenWeather.
 
-Sistema financeiro Full Stack desenvolvido para gerenciamento de receitas, despesas, contas, categorias e transações.
+**Tecnologias:** HTML, CSS, JavaScript e OpenWeather API.
 
-### Tecnologias
+- Consulta do clima por cidade
+- Temperatura e sensação térmica
+- Umidade e velocidade do vento
+- Previsão para os próximos dias
+- Consumo de API externa
 
-`React` `Vite` `Node.js` `Express` `PostgreSQL` `Prisma`
-
-### Funcionalidades
-
-* Autenticação e autorização de usuários
-* Gerenciamento de contas
-* Cadastro e gerenciamento de categorias
-* Gerenciamento de receitas e despesas
-* APIs REST
-* Persistência de dados com PostgreSQL
-* Integração entre Front-end e Back-end
-* Autorização baseada no usuário autenticado
-
-🌐 **[Ver aplicação](https://felipesilv0607-lab.github.io/finance-system/)**
-
-💻 **[Ver código](https://github.com/felipesilv0607-lab/finance-system)**
+[Ver aplicação](https://felipesilv0607-lab.github.io/weather-app/) | [Ver código](https://github.com/felipesilv0607-lab/weather-app)
 
 ---
 
-## 🌤️ Weather App
+### Portfólio Pessoal
 
-Aplicação de previsão do tempo desenvolvida para trabalhar com consumo de APIs e integração entre Front-end e Back-end.
+Portfólio desenvolvido para apresentar meus projetos, tecnologias e trajetória como desenvolvedor.
 
-### Tecnologias
+**Tecnologias:** React, Vite, JavaScript e CSS.
 
-`HTML` `CSS` `JavaScript` `Node.js` `Express` `OpenWeather API`
-
-🌐 **[Ver aplicação](https://felipesilv0607-lab.github.io/weather-app/)**
-
-💻 **[Ver código](https://github.com/felipesilv0607-lab/weather-app)**
+[Ver aplicação](https://felipesilv0607-lab.github.io/portfolio/) | [Ver código](https://github.com/felipesilv0607-lab/portfolio)
 
 ---
 
-## 💼 Portfolio
+### Projeto Agentes
 
-Portfólio pessoal desenvolvido para apresentar meus projetos, tecnologias e trajetória como desenvolvedor.
+Projeto voltado à construção de uma estrutura de desenvolvimento assistida por inteligência artificial, com agentes especializados em implementação e revisão de código.
 
-### Tecnologias
+**Tecnologias:** Codex, IA, Git e GitHub.
 
-`React` `Vite` `JavaScript` `CSS`
+- Agente desenvolvedor
+- Agente revisor de código
+- Fluxo estruturado de desenvolvimento
+- Revisão independente e validação de alterações
 
-🌐 **[Ver portfólio](https://felipesilv0607-lab.github.io/portfolio/)**
-
-💻 **[Ver código](https://github.com/felipesilv0607-lab/portfolio)**
-
----
-
-# 📚 Atualmente
-
-* Desenvolvendo projetos Full Stack
-* Aprofundando conhecimentos em React e Node.js
-* Trabalhando com APIs REST e PostgreSQL
-* Estudando boas práticas de desenvolvimento e arquitetura de aplicações
-* Explorando fundamentos de Linux e Cloud
-
----
-
-# 📫 Contato
-
-💼 **LinkedIn:** [Felipe Luz](https://www.linkedin.com/)
-
-💻 **GitHub:** [felipesilv0607-lab](https://github.com/felipesilv0607-lab)
-
-📧 **E-mail:** [felipesv0607@gmail.com](mailto:felipesv0607@gmail.com)
-
----
-
-### 🚀 Construindo, aprendendo e evoluindo através de projetos reais.
+[Ver demonstração](https://felipesilv0607-lab.github.io/agentes/) | [Ver código](https://github.com/felipesilv0607-lab/agentes)
