@@ -39,7 +39,7 @@ Portfólio desenvolvido para apresentar meus projetos, tecnologias e trajetória
 
 **Tecnologias:** React, Vite, JavaScript e CSS.
 
-[Ver aplicação](https://felipesilv0607-lab.github.io/portfolio/) | [Ver código](https://github.com/felipesilv0607-lab/portfolio)
+[Ver aplicação](https://design-first-layout-studio.lovable.app) | [Ver código](https://github.com/felipesilv0607-lab/portfolio)
 
 ---
 
